@@ -22,5 +22,3 @@ Clone the repository to your local machine:
 
 4. Once you have updated the application.properties file, you can run the application as a Spring Boot application from your IDE.
 
-Alternatively, you can use the following Maven command to build and run the application:
-
