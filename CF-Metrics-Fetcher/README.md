@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 # bash
 # Copy code
-1. git clone https://github.com/your-username/cf-tanzu-metrics-fetcher.git
+1. git clone https://github.com/nsr0620/CF-Nozzle.git
 
 2. Open the project in your preferred IDE (like IntelliJ IDEA, Eclipse, etc.).
 
