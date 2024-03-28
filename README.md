@@ -12,7 +12,6 @@ To run this application locally in your IDE, follow these steps:
 # Installation
 Clone the repository to your local machine:
 
-# bash
 # Copy code
 1. git clone https://github.com/nsr0620/CF-Nozzle.git
 
