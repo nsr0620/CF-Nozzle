@@ -1,0 +1,63 @@
+---
+applications:
+- name: cfnozzle-firehose-nozzle
+  instances: 1
+  memory: 2G
+  disk_quota: 2G
+  no-route: true
+  health-check-type: process
+  path: <ReplaceMe with path to the cfnozzle-nozzle JAR>
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  env:
+    # Reactor HTTP client settings
+    JAVA_OPTS: '-DcustomTag.foundation=YOUR_PCF_FOUNDATION_NAME -Dreactor.ipc.netty.pool.maxConnections=32 -Dlogging.level.cloudfoundry-client.request=DEBUG -Dlogging.level.cloudfoundry-client.response=DEBUG' 
+    # PCF properties
+    # Replace the values below
+    pcf_host: <ReplaceMe with PCF FQDN. Example: api.local.pcfdev.io>
+    pcf_user: <ReplaceMe>
+    pcf_password: <ReplaceMe>
+    # pcf_skipSslValidation: <ReplaceMe with either true|false>
+    # Firehose properties
+    # Replace the values below
+    # Valid firehose event types - { COUNTER_EVENT, VALUE_METRIC, CONTAINER_METRIC, ERROR, HTTP_START_STOP, LOG_MESSAGE }
+    
+    firehose_eventTypes: <Replace me with one or more values from above list. Example: COUNTER_EVENT, VALUE_METRIC>
+    # Choose a value between 1 and 8 inclusive. Default to 4
+    firehose_parallelism: 4
+    # PCF AppInfo properties
+    pcf.appInfo.fetchAppInfo: true
+    pcf.appInfo.appInfoCacheSize: 5000
+    pcf.appInfo.cacheExpireIntervalHours: 6
+    # cfnozzle-Proxy properties
+    proxy_hostname: <ReplaceMe>
+    proxy_port: <ReplaceMe>
+    # Log Storage Properties
+    log_url: http://<IP>:<PORT>/netforest
+    log_indexprefix: tanzucloud
+    log_connecttimeout: 60000
+    log_readtimeout: 60000
+    log_ingestionthreads: 1
+    log_batchsize: 125
+    #cmon property for statsD mon
+    EXT_CAVSTATSD_BIND: UDP:<UDP_IP>:<PORT>
+    EXT_CAVSTATSD_RECEIVE_BUFFER_LENGTH: 65767
+    EXT_CAVSTATSD_MAX_THREAD: 5
+    EXT_CAVSTATSD_DEFAULT_THREAD: 3
+    CAVSTATSD_DEBUG_LEVEL: 6
+    
+    CAV_MON_HOME: /home/vcap/app/monitors
+    JAVA_HOME: /home/vcap/app/.java-buildpack/open_jdk_jre
+    #cmon env 
+    TIER: nozzle
+    CONTROLLER: <IP>:<PORT>
+    NDC_COMM_PROTOCOL: WSS
+    CMON_OPTS: '-Xms512m -Xmx512m'
+    CAV_LOG_STORAGE_CONTROLLER:<IP>:<PORT>
+    CAV_LOG_STORAGE_AUTO_DISCOVERY: false
+    CAV_MON_AGENT_OPTS: '-F 1 -m 300'
+    spring.main.allow-circular-references: true
+
+    server_port= <server_port>
+
+
+

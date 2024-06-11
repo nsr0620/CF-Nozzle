@@ -1,0 +1,33 @@
+---
+applications:
+- name: MyApp
+  memory: 2G
+  disk_quota: 2G
+  instances: 1
+  docker:
+    image: <image_name>
+    username: <username>
+    password: <password>
+  no-route: true
+  env:
+    pcfhost: api.sys.cftanzunv.myapp.shop1
+    pcfuser: myuser
+    pcfpassword: mypassword
+    eventTypes: CONTAINER_METRIC,VALUE_METRIC,COUNTER_EVENT,LOG_MESSAGE
+    # Heartbeat to check Nozzle is running, default value is 4(in minutes) 
+    healthTimeCheck: 4
+    # Choose a value between 1 and 8 inclusive. Default to 4
+    #firehose_filterExclude: true
+    # PCF AppInfo properties
+    # cftanzu-Proxy properties
+    proxyHostname: 127.0.0.1
+    proxyPort: 8128
+    server_port: 6666
+
+    # Log Storage Properties
+    logUrl: http://<host>:<port>/
+    logIndexprefix: tanzucloud
+    logConnecttimeout: 60000
+    logReadtimeout: 60000
+    logIngestionthreads: 1
+    logBatchsize: 125

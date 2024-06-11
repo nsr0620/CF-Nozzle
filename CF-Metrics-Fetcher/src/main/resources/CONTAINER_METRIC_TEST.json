@@ -1,0 +1,40 @@
+{
+  "Envelope": {
+    "containerMetric": {
+      "applicationId": "8aedd1fb-e93c-48b6-8ac4-e73bf7fe31b1",
+      "cpuPercentage": 0.9279699465376346,
+      "diskBytes": 333586432,
+      "diskBytesQuota": 2147483648,
+      "instanceIndex": 0,
+      "memoryBytes": 529316398,
+      "memoryBytesQuota": 1073741824
+    },
+    "counterEvent": null,
+    "deployment": "cf-88b93ddbba2680bf0603",
+    "error": null,
+    "eventType": "CONTAINER_METRIC",
+    "httpStartStop": null,
+    "index": "cc838ed2-3fb6-4918-a62a-5731c7a624d1",
+    "ip": "10.0.4.14",
+    "job": "compute",
+    "logMessage": null,
+    "origin": "rep",
+    "tags": {
+      "organization_name": "javaTanzu",
+      "process_id": "8aedd1fb-e93c-48b6-8ac4-e73bf7fe31b1",
+      "app_name": "shopapp-tag-D2348",
+      "organization_id": "2a523f52-7783-4777-85d6-09573ea723ba",
+      "instance_id": 0,
+      "process_instance_id": "ff5e1f08-e00f-475e-7303-9984",
+      "space_name": "javaSpace",
+      "system_domain": "sys.cftanzunv.myapp.shop",
+      "space_id": "456ec083-6c49-4d4f-9470-40949cdde7e0",
+      "product": "My Application Service",
+      "source_id": "8aedd1fb-e93c-48b6-8ac4-e73bf7fe31b1",
+      "process_type": "web",
+      "app_id": "8aedd1fb-e93c-48b6-8ac4-e73bf7fe31b1"
+    },
+    "timestamp": 1701935367687049031,
+    "valueMetric": null
+  }
+}

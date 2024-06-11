@@ -1,0 +1,109 @@
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:05:53.628447 #158]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.69.153 at 2023-09-29 11:05:53 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:05:53.629222 #158]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:05:53.629942 #158]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 87)
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:05:57.982715 #157]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.61.252 at 2023-09-29 11:05:57 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:05:57.983635 #157]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:05:57.984278 #157]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 87)
+system$$$system$$$apps-manager-js-green$$$61.12.67.22, 34.160.226.171, 35.191.1.140 - - - [29/Sep/2023:11:06:02 +0000] "GET /proxy/home/log-cache/api/v1/read/e8a6eb81-e32f-4382-800b-7c00b7f68a27?envelope_types=LOG&envelope_types=EVENT&limit=1000&start_time=1695985342020417749 HTTP/1.1" 200 1064
+system$$$system$$$apps-manager-js-green$$$apps.sys.cftanzunv.myapp.shop - [2023-09-29T11:06:02.639958065Z] "GET /proxy/home/log-cache/api/v1/read/e8a6eb81-e32f-4382-800b-7c00b7f68a27?envelope_types=LOG&envelope_types=EVENT&limit=1000&start_time=1695985342020417749 HTTP/1.1" 200 0 1052 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" "35.191.1.140:56448" "10.0.4.15:61002" x_forwarded_for:"61.12.67.22, 34.160.226.171, 35.191.1.140" x_forwarded_proto:"https" vcap_request_id:"0755c7e2-753d-4923-498c-e976c66acea4" response_time:0.019353 gorouter_time:0.000273 app_id:"d1263e96-ef8e-4530-b319-9b00a33f0561" app_index:"1" instance_id:"fab4615b-83d4-4c78-6afd-adcd" x_cf_routererror:"-" x_b3_traceid:"b73d466c92431df3" x_b3_spanid:"b73d466c92431df3" x_b3_parentspanid:"-" b3:"b73d466c92431df3-b73d466c92431df3"
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-scheduler$$$I, [2023-09-29T11:06:14.001292 #42]  INFO -- : Triggering 'emit metrics'
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2938) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:06:15.374354 #14]  INFO -- : 2023-09-29T11:06:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2938) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:06:15.376217 #14]  INFO -- : {"type":"gauge","name":"usage_service.delayed_job_failures","value":118,"tags":{}}
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:06:15.586238 #14]  INFO -- : {"type":"gauge","name":"usage_service.app_usage_event_cc_lag_seconds","value":16204,"tags":{}}
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2938) COMPLETED after 0.2154
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:06:15.589997 #14]  INFO -- : 2023-09-29T11:06:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2938) COMPLETED after 0.2154
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] 1 jobs processed at 4.4424 j/s, 0 failed
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:06:15.593524 #14]  INFO -- : 2023-09-29T11:06:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] 1 jobs processed at 4.4424 j/s, 0 failed
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:23.640270 #158]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.69.153 at 2023-09-29 11:06:23 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:23.641138 #158]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:23.641860 #158]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 87)
+presales$$$poc$$$nsrdemo$$$Cell bad4c3ef-e91c-46f1-b7f6-4b93ce20b500 creating container for instance c72131b2-3732-48f1-697f-507d
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:27.987281 #157]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.61.252 at 2023-09-29 11:06:27 +0000
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:27.988153 #157]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:27.988775 #157]  INFO -- : Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 87)
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:53.646126 #158]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.69.153 at 2023-09-29 11:06:53 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:53.647015 #158]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:53.647816 #158]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 87)
+presales$$$poc$$$nsrdemo$$$Process has crashed with type: "web"
+presales$$$poc$$$nsrdemo$$$App instance exited with guid e8a6eb81-e32f-4382-800b-7c00b7f68a27 payload: {"instance"=>"c72131b2-3732-48f1-697f-507d", "index"=>0, "cell_id"=>"bad4c3ef-e91c-46f1-b7f6-4b93ce20b500", "reason"=>"CRASHED", "exit_description"=>"failed to create container: running image plugin create: pulling the image: streaming blob `sha256:0598e704f87547dfc3e42731a9e897e785046354ee749d00bc77fd5547833312`: writing blob to tempfile: uncompressed layer size exceeds quota\n: exit status 1", "crash_count"=>7, "crash_timestamp"=>1695985613862009463, "version"=>"56dc22b0-fed5-4606-8c3b-c1a8be27fc97"}
+presales$$$poc$$$nsrdemo$$$Cell bad4c3ef-e91c-46f1-b7f6-4b93ce20b500 failed to create container for instance c72131b2-3732-48f1-697f-507d: running image plugin create: pulling the image: streaming blob `sha256:0598e704f87547dfc3e42731a9e897e785046354ee749d00bc77fd5547833312`: writing blob to tempfile: uncompressed layer size exceeds quota
+presales$$$poc$$$nsrdemo$$$: exit status 1
+presales$$$poc$$$nsrdemo$$$Cell bad4c3ef-e91c-46f1-b7f6-4b93ce20b500 destroying container for instance c72131b2-3732-48f1-697f-507d
+presales$$$poc$$$nsrdemo$$$Cell bad4c3ef-e91c-46f1-b7f6-4b93ce20b500 successfully destroyed container for instance c72131b2-3732-48f1-697f-507d
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:57.991148 #157]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.61.252 at 2023-09-29 11:06:57 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:57.991990 #157]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:06:57.992596 #157]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 88)
+system$$$system$$$apps-manager-js-green$$$61.12.67.22, 34.160.226.171, 35.191.27.118 - - - [29/Sep/2023:11:07:02 +0000] "GET /proxy/home/log-cache/api/v1/read/e8a6eb81-e32f-4382-800b-7c00b7f68a27?envelope_types=LOG&envelope_types=EVENT&limit=1000&start_time=1695985342020417749 HTTP/1.1" 200 1777
+system$$$system$$$apps-manager-js-green$$$apps.sys.cftanzunv.myapp.shop - [2023-09-29T11:07:02.158226979Z] "GET /proxy/home/log-cache/api/v1/read/e8a6eb81-e32f-4382-800b-7c00b7f68a27?envelope_types=LOG&envelope_types=EVENT&limit=1000&start_time=1695985342020417749 HTTP/1.1" 200 0 1765 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" "35.191.27.118:65161" "10.0.4.14:61022" x_forwarded_for:"61.12.67.22, 34.160.226.171, 35.191.27.118" x_forwarded_proto:"https" vcap_request_id:"d64d6c48-5bb8-44b0-4ef4-364fb6f35272" response_time:0.019318 gorouter_time:0.000264 app_id:"d1263e96-ef8e-4530-b319-9b00a33f0561" app_index:"0" instance_id:"bf18bb08-ad5f-4ffb-52b1-68c5" x_cf_routererror:"-" x_b3_traceid:"dd1fb97f0390cdb6" x_b3_spanid:"dd1fb97f0390cdb6" x_b3_parentspanid:"-" b3:"dd1fb97f0390cdb6-dd1fb97f0390cdb6"
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-scheduler$$$I, [2023-09-29T11:07:14.001299 #42]  INFO -- : Triggering 'worker check in'
+system$$$system$$$app-usage-scheduler$$$I, [2023-09-29T11:07:14.006044 #42]  INFO -- : Triggering 'emit metrics'
+system$$$system$$$app-usage-scheduler$$$I, [2023-09-29T11:07:14.009393 #42]  INFO -- : Triggering 'app usage events fetcher'
+system$$$system$$$app-usage-scheduler$$$I, [2023-09-29T11:07:14.012395 #42]  INFO -- : Triggering 'service usage events fetcher'
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::WorkerCheckInJob#execute_without_delay (id=2939) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.684343 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::WorkerCheckInJob#execute_without_delay (id=2939) RUNNING
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::WorkerCheckInJob#execute_without_delay (id=2939) COMPLETED after 0.0060
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.690499 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::WorkerCheckInJob#execute_without_delay (id=2939) COMPLETED after 0.0060
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2940) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.695979 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2940) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.697530 #14]  INFO -- : {"type":"gauge","name":"usage_service.delayed_job_failures","value":118,"tags":{}}
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.798612 #14]  INFO -- : {"type":"gauge","name":"usage_service.app_usage_event_cc_lag_seconds","value":16204,"tags":{}}
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2940) COMPLETED after 0.1058
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.801975 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::MetricEmitterJob#emit_metrics_without_delay (id=2940) COMPLETED after 0.1058
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::AppUsageEventsFetcherJob#fetch_app_usage_events_without_delay (id=2941) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.807438 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::AppUsageEventsFetcherJob#fetch_app_usage_events_without_delay (id=2941) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.896281 #14]  INFO -- : {"type":"gauge","name":"usage_service.app_usage_event_fetcher_job_exit_code","value":0,"tags":{}}
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.896444 #14]  INFO -- : {"type":"gauge","name":"usage_service.app_usage_event_fetcher_job_processed_app_events","value":0,"tags":{}}
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.896527 #14]  INFO -- : {"type":"gauge","name":"usage_service.app_usage_event_fetcher_job_processed_task_events","value":0,"tags":{}}
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::AppUsageEventsFetcherJob#fetch_app_usage_events_without_delay (id=2941) COMPLETED after 0.0917
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.899261 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::AppUsageEventsFetcherJob#fetch_app_usage_events_without_delay (id=2941) COMPLETED after 0.0917
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::ServiceUsageEventsFetcherJob#fetch_service_usage_events_without_delay (id=2942) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.905310 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::ServiceUsageEventsFetcherJob#fetch_service_usage_events_without_delay (id=2942) RUNNING
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.976336 #14]  INFO -- : {"type":"gauge","name":"usage_service.service_usage_event_fetcher_job_exit_code","value":0,"tags":{}}
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.976456 #14]  INFO -- : {"type":"gauge","name":"usage_service.service_usage_event_fetcher_job_processed_events","value":0,"tags":{}}
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::ServiceUsageEventsFetcherJob#fetch_service_usage_events_without_delay (id=2942) COMPLETED after 0.0735
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.978962 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] Job Jobs::ServiceUsageEventsFetcherJob#fetch_service_usage_events_without_delay (id=2942) COMPLETED after 0.0735
+system$$$system$$$app-usage-worker$$$[Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] 4 jobs processed at 13.1779 j/s, 0 failed
+system$$$system$$$app-usage-worker$$$I, [2023-09-29T11:07:15.981482 #14]  INFO -- : 2023-09-29T11:07:15+0000: [Worker(host:e1aa2bc3-3627-4537-5ba8-5eaa pid:14)] 4 jobs processed at 13.1779 j/s, 0 failed
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:23.650923 #160]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.69.153 at 2023-09-29 11:07:23 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:23.651840 #160]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:23.652508 #160]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 87)
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:27.998030 #155]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.61.252 at 2023-09-29 11:07:27 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:27.998891 #155]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:27.999667 #155]  INFO -- : Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 87)
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:53.657867 #160]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.69.153 at 2023-09-29 11:07:53 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:53.658673 #160]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:53.659334 #160]  INFO -- : Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 87)
+javaTanzu$$$javaSpace$$$netdiagnostics-with-agent11$$$Installer is running...
+system$$$system$$$nozzlesample$$$Sent to-->/127.0.0.1 port---> 8709 data-->Sample data sent from nozzle....
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:58.011506 #155]  INFO -- : Started GET "/heartbeat/server_status" for 10.255.61.252 at 2023-09-29 11:07:58 +0000
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:58.012300 #155]  INFO -- : Processing by HeartbeatController#server_status as HTML
+system$$$system$$$app-usage-server$$$I, [2023-09-29T11:07:58.012891 #155]  INFO -- : Completed 200 OK in 0ms (Views: 0.1ms | Allocations: 87)
+system$$$system$$$apps-manager-js-green$$$61.12.67.22, 34.160.226.171, 35.191.26.178 - - - [29/Sep/2023:11:08:03 +0000] "GET /proxy/home/log-cache/api/v1/read/e8a6eb81-e32f-4382-800b-7c00b7f68a27?envelope_types=LOG&envelope_types=EVENT&limit=1000&start_time=1695985342020417749 HTTP/1.1" 200 1777
+system$$$system$$$apps-manager-js-green$$$apps.sys.cftanzunv.myapp.shop - [2023-09-29T11:08:03.072703996Z] "GET /proxy/home/log-cache/api/v1/read/e8a6eb81-e32f-4382-800b-7c00b7f68a27?envelope_types=LOG&envelope_types=EVENT&limit=1000&start_time=1695985342020417749 HTTP/1.1" 200 0 1765 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" "35.191.26.178:55316" "10.0.4.15:61002" x_forwarded_for:"61.12.67.22, 34.160.226.171, 35.191.26.178" x_forwarded_proto:"https" vcap_request_id:"92f140f7-4d2a-4514-6574-38686f2e1216" response_time:0.020249 gorouter_time:0.000273 app_id:"d1263e96-ef8e-4530-b319-9b00a33f0561" app_index:"1" instance_id:"fab4615b-83d4-4c78-6afd-adcd" x_cf_routererror:"-" x_b3_traceid:"7b0d5596cbd0b25d" x_b3_spanid:"7b0d5596cbd0b25d" x_b3_parentspanid:"-" b3:"7b0d5596cbd0b25d-7b0d5596cbd0b25d"

@@ -1,0 +1,359 @@
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.bad_gateways_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.backend_exhausted_conns_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.backend_invalid_id_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.backend_invalid_tls_cert_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.backend_tls_handshake_failed_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.rejected_requests_total|36|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.total_requests_total|58327|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.responses_total|58325|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.responses_2xx_total|19249|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.responses_3xx_total|38|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.responses_4xx_total|39035|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.responses_5xx_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.responses_xxx_total|3|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.routed_app_requests_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.routes_pruned_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.websocket_failures_total|0|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.websocket_upgrades_total|3|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.requests_uaa_total|40467|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_uaa_total|4420|1695713611097
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.requests_CloudController_total|16327|1695713611097
+
+gauge.pcf.My Application Service.route_emitter.10_0_4_14.cc838ed2-3fb6-4918-a62a-5731c7a624d1.route_emitter.compute.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.HTTPRouteNATSMessagesEmitted_total|2422|1695713611264
+
+gauge.pcf.My Application Service.route_emitter.10_0_4_14.cc838ed2-3fb6-4918-a62a-5731c7a624d1.route_emitter.compute.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.InternalRouteNATSMessagesEmitted_total|0|1695713611264
+
+gauge.pcf.My Application Service.route_emitter.10_0_4_14.cc838ed2-3fb6-4918-a62a-5731c7a624d1.route_emitter.compute.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.RoutesSynced_total|2405|1695713611264
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|276565736|1695713612000
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|5681253|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|5633486|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.origin_mappings_total|0|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|0|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|82|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.scrape_targets_total_total|6|1695713612001
+
+gauge.pcf.My Application Service.loggregator_forwarder_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.forwarder_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|22855|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|192796360|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|2070691|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.failed_scrapes_total_total|0|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|2092729|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.prom_scraper.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|84|1695713612001
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|149131736|1695713612002
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|706352|1695713612002
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713612002
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.sent_total|2205|1695713612002
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|64|1695713612002
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.egress_total|21097|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|199005632|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|66|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|22855|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|3455689|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.process_cpu_seconds_total_total|15|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|3411346|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|1758|1695713612003
+
+gauge.pcf.My Application Service.loggregator_metron.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metron.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.origin_mappings_total|0|1695713612003
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.egress_total|0|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.binding_refresh_count_total|176|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|1559345|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|0|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.origin_mappings_total|0|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|43|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|96557616|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|22855|1695713612004
+
+gauge.pcf.My Application Service.loggregator_syslog_agent.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.syslog_agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|1591916|1695713612004
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|1441598|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|92376632|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|1466262|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|0|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.failed_scrapes_total|0|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|22855|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.origin_mappings_total|0|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics-agent.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|46|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|694556|1695713612007
+
+gauge.pcf.My Application Service.10_0_4_18.44e43f16-36f1-49e0-a9e3-387a4207f2a7.metrics_discovery_registrar.mysql_monitor.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713612007
+
+gauge.pcf.My Application Service.loggregator_doppler.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.doppler.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|1010129|1695713612701
+
+gauge.pcf.My Application Service.loggregator_doppler.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.doppler.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.egress_total|1123741|1695713612701
+
+gauge.pcf.My Application Service.loggregator_doppler.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.doppler.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|0|1695713612701
+
+gauge.pcf.My Application Service.policy-server-internal.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.policy-server-internal.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.UptimeRequestCount_total|448|1695713613256
+
+gauge.pcf.My Application Service.policy-server-internal.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.policy-server-internal.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.InternalPoliciesRequestCount_total|1884|1695713613454
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy_gateway.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|53607088|1695713616166
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy_gateway.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|130957|1695713616166
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy_gateway.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|37|1695713616166
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy_gateway.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616166
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy_gateway.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|139026|1695713616166
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy_gateway.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616166
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.log_cache_egress_total|197898|1695713616198
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.log_cache_expired_total|303059|1695713616198
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.log_cache_ingress_total|977556|1695713616198
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|117731837|1695713616198
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-cf-auth-proxy.cf_auth_proxy.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|71491736|1695713616213
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-cf-auth-proxy.cf_auth_proxy.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|147196|1695713616213
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-cf-auth-proxy.cf_auth_proxy.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|154103|1695713616213
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-cf-auth-proxy.cf_auth_proxy.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|42|1695713616213
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-cf-auth-proxy.cf_auth_proxy.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616213
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-cf-auth-proxy.cf_auth_proxy.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616213
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616214
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616214
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|4174921576|1695713616214
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.log_cache_promql_timeout_total|0|1695713616214
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|50|1695713616214
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache.log_cache.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|101350034|1695713616214
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.leadership-election.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|40|1695713616215
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|115|1695713616224
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|4197914|1695713616224
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616224
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|4176901|1695713616225
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|0|1695713616225
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|40110|1695713616225
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616225
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616225
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metrics-agent.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.invalid_metric_label_total|1341|1695713616248
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metrics-agent.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.modified_tags_total|215|1695713616248
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.leadership-election.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|72090904|1695713616215
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.leadership-election.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|310479|1695713616215
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.leadership-election.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616215
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.leadership-election.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|304476|1695713616215
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.leadership-election.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616215
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|32771627|1695713616216
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|32716359|1695713616216
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|717|1695713616216
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.num_scrapes_total|305|1695713616216
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616224
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|340699|1695713616224
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616224
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|88401672|1695713616224
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|334024|1695713616224
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|50|1695713616224
+
+gauge.pcf.My Application Service.loggregator_syslog_binding_cache.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.loggr-syslog-binding-cache.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.binding_refresh_error_total|2|1695713616224
+
+gauge.pcf.My Application Service.loggregator_udp_forwarder.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.udp_forwarder.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|241904264|1695713616224
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616253
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-gateway.log_cache_gateway.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_lookups_total_total|0|1695713616258
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-gateway.log_cache_gateway.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|108051544|1695713616258
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-gateway.log_cache_gateway.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.promhttp_metric_handler_errors_total_total|0|1695713616258
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-gateway.log_cache_gateway.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_gc_duration_seconds_count_total|59|1695713616258
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-gateway.log_cache_gateway.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_frees_total_total|850103|1695713616258
+
+gauge.pcf.My Application Service.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.log-cache-gateway.log_cache_gateway.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_mallocs_total_total|863012|1695713616259
+
+gauge.pcf.My Application Service.loggregator_metrics_scraper.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.system_metric_scraper.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.go_memstats_alloc_bytes_total_total|1589284376|1695713616259
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_route-emitter_total|5341|1695713616096
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_total|1479|1695713616096
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_NetworkPolicyServer_total|222|1695713616096
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_CloudController_total|222|1695713616096
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_blobstore_total|222|1695713616096
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_orchestrator_registration_fetch_errors_total|0|1695713620370
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_orchestrator_log_worker_list_errors_total|0|1695713620373
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_orchestrator_endpoint_worker_list_errors_total|0|1695713620373
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_orchestrator_secure-endpoint_worker_list_errors_total|1|1695713620374
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.registry_message_MySQLProxy_total|222|1695713621096
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_log_worker_event_emission_errors_total|0|1695713621338
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_log_worker_envelopes_sent_total|217|1695713621338
+
+gauge.pcf.My Application Service.bbs.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.bbs.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ConvergenceTasksPruned_total|0|1695713622017
+
+gauge.pcf.My Application Service.bbs.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.bbs.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ConvergenceTasksKicked_total|0|1695713622017
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_endpoint_worker_event_emission_errors_total|0|1695713622362
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_endpoint_worker_envelopes_sent_total|0|1695713622362
+
+gauge.pcf.My Application Service.loggregator_trafficcontroller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.traffic_controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.doppler_proxy_slow_consumer_total|0|1695713628091
+
+gauge.pcf.My Application Service.loggregator_trafficcontroller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.traffic_controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.egress_total|0|1695713628094
+
+gauge.pcf.My Application Service.loggregator_trafficcontroller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.traffic_controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.doppler_proxy_log_cache_failure_total|0|1695713628095
+
+gauge.pcf.My Application Service.route_emitter.10_0_4_14.cc838ed2-3fb6-4918-a62a-5731c7a624d1.route_emitter.compute.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.RoutesRegistered_total|14|1695713628124
+
+gauge.pcf.My Application Service.route_emitter.10_0_4_14.cc838ed2-3fb6-4918-a62a-5731c7a624d1.route_emitter.compute.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.RoutesUnregistered_total|3|1695713628124
+
+gauge.pcf.My Application Service.silk-controller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.silk-controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.LeasesRenewRequestCount_total|305|1695713635460
+
+gauge.pcf.My Application Service.silk-controller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.silk-controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.LeasesIndexRequestCount_total|305|1695713635461
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.requests_MySQLProxy_total|147|1695713636098
+
+gauge.pcf.My Application Service.bbs.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.bbs.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ConvergenceTaskRuns_total|153|1695713637017
+
+gauge.pcf.My Application Service.bbs.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.bbs.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ConvergenceLRPRuns_total|153|1695713637017
+
+gauge.pcf.My Application Service.loggregator_trafficcontroller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.traffic_controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|154630|1695713639524
+
+gauge.pcf.My Application Service.loggregator_trafficcontroller.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.traffic_controller.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.query_error_total|0|1695713639524
+
+gauge.pcf.My Application Service.loggregator_rlp.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.log_router_disconnects_total|0|1695713640575
+
+gauge.pcf.My Application Service.loggregator_rlp.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.log_router_connects_total|3|1695713640574
+
+gauge.pcf.My Application Service.loggregator_rlp.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.ingress_total|986617|1695713640575
+
+gauge.pcf.My Application Service.loggregator_rlp.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.dropped_total|0|1695713640578
+
+gauge.pcf.My Application Service.loggregator_rlp.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.rejected_streams_total|0|1695713640578
+
+gauge.pcf.My Application Service.loggregator_rlp.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.reverse_log_proxy.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.egress_total|986597|1695713640578
+
+gauge.pcf.My Application Service.bbs.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.bbs.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.RequestCount_total|18448|1695713651945
+
+gauge.pcf.My Application Service.metric_registrar.10_0_4_13.e1b67900-fedf-4411-8190-9616419074fa.metric_registrar.control.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.metric_registrar_log_worker_log_envelopes_received_total|830|1695713655593
+
+gauge.pcf.My Application Service.gorouter.10_0_4_17.e5e1648c-b37e-4b29-b39d-8ac1d61593df.gorouter.router.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.requests_route-emitter_total|1208|1695713706096
+
+gauge.pcf.My Application Service.10_0_4_15.bad4c3ef-e91c-46f1-b7f6-4b93ce20b500.metrics_discovery_registrar.compute.sys_cftanzunv_myapp_shop.cf-88b93ddbba2680bf0603.process_cpu_seconds_total_total|4|1695713744910
